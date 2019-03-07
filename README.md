@@ -20,7 +20,7 @@ curl -X POST http://localhost:3000/graphql \
   -d '{"query":"query{cars{inventory}}"}'
 ```
 
-**Test bad response (stiching):**
+**Test bad response (stitching):**
 
 ```
 curl -X POST http://localhost:3001/graphql \
