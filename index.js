@@ -21,7 +21,7 @@ const schema = makeExecutableSchema({
       make: String!
       model: String!
       year: Int!
-      inventory: Int!
+      inventory: Int
     }
 
     type Query {
