@@ -7,7 +7,7 @@ Repro demonstrating issues with graphql-tools error stitching.
 ```
 git clone https://github.com/hwillson/graphql-tools-stitching-errors.git
 cd graphql-tools-stitching-errors
-npm i
+npm ci
 npm start
 ```
 
